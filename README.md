@@ -1,1 +1,1 @@
-![Dashboard](image/airline_report.png)
+![Dashboard](airline_report.png/airline_report.png)
